@@ -1,4 +1,4 @@
-# 👨‍🎓 I'm BALASAI ATTILI<br>🌟 Welcome to My Portfolio!
+# 👨‍🎓 I'm BALASAI ATTILI 🌟 Welcome to My Portfolio!
 
 Welcome to my corner of the web! I'm a full-stack web developer with a passion for creating seamless user experiences and innovative solutions. Here, you’ll find a collection of my projects that showcase my skills and creativity.
 
